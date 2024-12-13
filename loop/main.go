@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+
 
 func main() {
 	days := []string{"Sun", "mon", "tu", "wed"}

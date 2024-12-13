@@ -4,7 +4,7 @@ import (
 	"time"
 )
 func main() {
-	fmt.Println("Hey we are going to study the time")
+	fmt.Print("Hey we are going to study the time")
 	presenttime := time.Now()
 	fmt.Println(presenttime.Format("01-02-2006 Monday"))
 	 var fruit[6] string

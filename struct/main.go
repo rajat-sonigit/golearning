@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hey its the struct")
+	fmt.Print("Hey its the struct")
 	rajat := User{"Rajat", "Soni",19,"rjr045",true}
   fmt.Println(rajat)
 

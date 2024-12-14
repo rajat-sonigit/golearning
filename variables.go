@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var username string = "Rajat"
 	fmt.Println(username)
-	fmt.Printf("The variable type is : %T \n", username)
+	fmt.Printf("The variable type is :%T \n", username)
 
 	// bool type 
 	var isLogged bool = true

@@ -16,6 +16,6 @@ func main() {
 	case 3 : fmt.Println("move3")
 	case 4 : fmt.Println("move4")
 	case 5 : fmt.Println("move5")
-	case 6 : fmt.Println(" move6")
+	case 6 : fmt.Println("move6")
 	}
 }

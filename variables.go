@@ -10,7 +10,7 @@ func main() {
 	// bool type 
 	var isLogged bool = true
 	fmt.Println(isLogged)
-	fmt.Printf("The variable type is : %T \n", isLogged)
+	fmt.Printf("The variable type is : %T \n",  isLogged)
 
 	// integer 
 	const  myint uint16 = 9099
